@@ -1,4 +1,2 @@
 # outage-notifier
-A collection of classes allowing quick automation of web service outage checks, and responses through webhooks
-Current Support:
-  - GoogleChats and HTTP (Class interface coming soon)
+Future support will be a class interface for webservice outage checks and an accompanying class interface for webhook responses to notify users about the outage.
